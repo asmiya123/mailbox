@@ -1,2 +1,2 @@
 # mailbox
-display mailbox
+display mail from mailbox 
